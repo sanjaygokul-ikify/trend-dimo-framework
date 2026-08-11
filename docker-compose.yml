@@ -1,0 +1,7 @@
+# Docker Compose File
+version: '3'
+services:
+  dimo:
+    build: .
+    ports:
+      - "8080:8080"
