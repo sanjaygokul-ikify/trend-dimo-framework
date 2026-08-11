@@ -1,0 +1,8 @@
+# Default Configuration
+agent_count: 10
+orchestration_layer:
+  type: centralized
+autonomous_reasoning_engine:
+  type: decentralized
+distributed_execution_runtime:
+  type: containerized
